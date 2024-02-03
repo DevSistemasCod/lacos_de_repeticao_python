@@ -8,6 +8,6 @@ while dividendo > 1:
     
     if resto == 0:
         print(divisor)
-        dividendo =  dividendo // divisor
+        dividendo =  dividendo / divisor
     else:
         divisor = divisor + 1
